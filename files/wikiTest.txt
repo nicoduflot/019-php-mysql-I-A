@@ -1,0 +1,13 @@
+[title]Mon super fichier wiki[/title]
+[p]
+[g]en gras[/g], en [i]italique[/i].
+[/p]
+[p]
+une liste
+[/p]
+[liste]
+[li]1er élément[/li]
+[li]2ème élément[/li]
+[li]3ème élément[/li]
+[li]Dernier élément[/li]
+[/liste]
